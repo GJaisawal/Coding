@@ -1,0 +1,102 @@
+
+    How do you reverse a string? 2
+    reverse string without loop or predefined function(like reverse)
+    Missing number in array 3 (also multiple missing numbers)
+    Write code to Calculate frequency of characters in a string 
+    Write code to check if two strings match where one string contains wildcard characters 2
+    Write a code to Remove space from a string
+    Write a code to Count Inversion
+    Write a code to reverse a number imp
+    How do you determine if a string is a palindrome?  5
+    Write a code to check for the longest palindrome in an array. 2 (also lowest)
+    How do you check if the given number is prime? vimp2 (first 50 prime number)
+    Write a Program to Find the Prime Factors of a Number. 2
+    How do you calculate the number of numerical digits in a string?
+    How do you find the count for the occurrence of a particular character in a string? 3
+    How do you remove all occurrences of a given character from the input string?
+    How do you find the non-matching characters in a string?  Find non-repeating characters in a string  Write a code to find non-repeating elements in an array.  4 
+    Count repeated items in a String.
+    How do you find out if the two given strings are anagrams?  4
+    How do you calculate the number of vowels and consonants in a string?  4
+    Write a program to check whether a character is a vowel or consonant
+    Write a code to replace a substring in a string. 2 
+    How do you find the length of the longest substring without repeating characters
+    How do you total all of the matching integer elements in an array?  2
+    How do you reverse an array? 4
+    How do you remove duplicates from an array  2
+    remove the duplicate character from String   2 (also given character)
+    find the maximum occurring character in a given String
+    Find Indexes of a subarray with given sum (subarray with given sum) gfg 2
+    find an index of elements in a list. (ex:-binary search)
+    Write a code to replace each element in an array by its rank in the array
+    Write code of Greatest Common Divisor 
+    Write code of  Perfect number     imp
+    Write to code to check whether a given year is leap year or not. imp
+    How do you find the smallest & maximum element in an array? imp5 (also in unsorted array)
+    How would you find the second largest number in an array? imp2
+    Write a code to find consecutive largest subsequence
+    Explain overloading and overriding with the help of a program? imp
+    How do you sort an array of integers in ascending order? 3 (also without using sort method) 2
+    How do you print a Fibonacci sequence using recursion?  4 (also without recursion) (upto the nth term)
+    How do you calculate the sum of two integers?
+    Write a Program to Find out the Sum of Digits of a Number. imp
+    Write a Program to Find out the Power of a Number
+    How do you find the average of numbers in a list?
+    How do you check if an integer is even or odd?
+    Showcase Inheritance with the help of a program?  imp
+    How do you find the middle element of a linked list?
+    How do you reverse a linked list 2
+    How do you reverse a singly linked list without recursion
+    How do you sort a linked list
+    How to add an element at the middle of the linked list? 
+    How do you remove a loop in a linked list? 2
+    How do you merge two sorted linked lists?
+    How to get the third node of a linked list? 2 (also in singly linked list)
+    How to merge two sorted linked lists?
+    How to search for a specific value in a linked list?
+    How to remove Nth Node from the end of a linked list
+    How do you find the middle element of a singly linked list in one pass?
+    How do you implement binary search to find an element in a sorted array? 2
+    How do you print a binary tree in vertical order?
+    How would you implement the bubble sort algorithm? 3
+    How would you implement the insertion sort algorithm? 2
+    How is the merge sort algorithm implemented? 2
+    Write a code for Heap sort. 
+    Write a Program to find out the Spiral Traversal of a Matrix. 2
+    Create and Add a two matrix 2x2 or 3x3.
+    How would you swap two numbers without using a third variable?  imp2
+    How do you find the factorial of an integer? 3  (also using recursion)
+    Write the code to for Armstrong number  imp
+    Write a code to find an Automorphic number
+    Write a code to find circular rotation of an array by K positions.
+    Write a program to find the sum of Natural Numbers using Recursion.
+    Write a program to add Two Matrices using Multi-dimensional Array.
+    Write a program for Binary to Decimal to conversion
+    Write a code to find Find the ASCII value of a character
+    Write a code to Remove all characters from string except alphabets
+    Write a Program to Add two Fractions
+    Write a Program to Find the Roots of a Quadratic Equation
+    Write a Program to Convert Digits to Words. 2
+    How to find all permutations of String? 2
+    How to remove special characters in a string that is in lowercase?
+    writes a program for Sudoku.
+    Write a Program to check whether the number is a Narcissistic number or not
+    Find the sum of all natural numbers without using any regression or any loop.
+    Find the nearest smaller numbers on the left side in an array.
+    Find the minimum number of coins that make a given value.
+    How do you implement a bucket sort algorithm?
+    How do you implement a counting sort algorithm? 
+    How is a radix sort algorithm implemented?
+    Difference between a stable and unstable sorting algorithm?
+    How do you check if a string contains only digits
+    How to convert a sorted list to a binary search tree? 
+    How is a binary search tree implemented?
+    How do you perform preorder traversal in a given binary tree?
+    How do you perform an inorder traversal in a given binary tree? 
+    How do you traverse a given binary tree in preorder without recursion? 
+    How do you reverse words in a given sentence without using any library method?
+    How do you find the sum of two linked lists using Stack?
+    How to find the node at which the intersection of two singly linked lists begins. 
+    Given a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.
+    How to check if a given linked list is a palindrome?
+    How to remove all elements from a linked list of integers which matches with given value?
