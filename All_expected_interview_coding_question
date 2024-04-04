@@ -1,4 +1,112 @@
 
+    String Manipulation:
+
+    Reverse a string without using loops or predefined functions.
+    Calculate frequency of characters in a string.
+    Check if two strings match where one string contains wildcard characters.
+    Remove spaces from a string.
+    Count inversions.
+    Check if a string is a palindrome.
+    Replace a substring in a string.
+    Remove all occurrences of a given character from a string.
+    Find non-repeating characters in a string.
+    Count repeated items in a string.
+    Find the maximum occurring character in a given string.
+    Replace duplicate characters from a string.
+    Find the length of the longest substring without repeating characters.
+    Find non-repeating elements in an array.
+    Check if two given strings are anagrams.
+    Calculate the number of vowels and consonants in a string.
+    Find the occurrence count of a particular character in a string.
+    Remove all occurrences of a given character from a string.
+    Find the non-matching characters in a string.
+
+Array Manipulation:
+20. Missing number(s) in an array.
+
+    Total all matching integer elements in an array.
+    Reverse an array.
+    Remove duplicates from an array.
+    Find the second largest number in an array.
+    Replace each element in an array by its rank in the array.
+    Sort an array of integers in ascending order.
+    Find consecutive largest subsequence in an array.
+    Find indexes of a subarray with given sum.
+    Find the smallest and maximum element in an array.
+    Find the sum of digits of a number.
+    Find the power of a number.
+    Find the average of numbers in a list.
+    Check if an integer is even or odd.
+    Sum of two integers.
+    Find the sum of two linked lists using Stack.
+    Merge two sorted linked lists.
+    Find the middle element of a linked list.
+    Remove the loop in a linked list.
+    Find the middle element of a singly linked list in one pass.
+    Merge two sorted linked lists.
+    Search for a specific value in a linked list.
+    Remove Nth node from the end of a linked list.
+    Find the third node of a linked list.
+    Add an element at the middle of the linked list.
+
+Number Manipulation:
+45. Check if a given number is prime.
+
+    Find the prime factors of a number.
+    Perfect number.
+    Check if a year is a leap year.
+    Greatest Common Divisor (GCD).
+    Find the factorial of an integer.
+    Find Armstrong number.
+    Find Automorphic number.
+    Find circular rotation of an array by K positions.
+    Find the sum of natural numbers using recursion.
+    Find the ASCII value of a character.
+    Find the roots of a quadratic equation.
+
+Sorting Algorithms:
+57. Bubble sort algorithm.
+
+    Insertion sort algorithm.
+    Merge sort algorithm.
+    Heap sort algorithm.
+    Bucket sort algorithm.
+    Counting sort algorithm.
+    Radix sort algorithm.
+    Difference between stable and unstable sorting algorithm.
+
+Data Structures (Linked List):
+65. Reverse a linked list.
+
+    Reverse a singly linked list without recursion.
+    Sort a linked list.
+    Find the middle element of a linked list.
+    Traverse a given binary tree in preorder without recursion.
+    Traverse a given binary tree in preorder.
+    Traverse a given binary tree in inorder.
+    Reverse words in a given sentence without using library methods.
+
+Miscellaneous:
+73. Explain overloading and overriding with a program.
+
+    Showcase Inheritance with a program.
+    Convert digits to words.
+    Find all permutations of a string.
+    Write a program for Sudoku.
+    Find the nearest smaller numbers on the left side in an array.
+    Find the minimum number of coins that make a given value.
+    Convert a sorted list to a binary search tree.
+    Check if a string contains only digits.
+    Swap two numbers without using a third variable.
+    Print Fibonacci sequence.
+    Create and add two matrices.
+    Binary to Decimal conversion.
+    Add two fractions.
+    Spiral traversal of a matrix.
+
+
+
+
     How do you reverse a string? 2
     reverse string without loop or predefined function(like reverse)
     Missing number in array 3 (also multiple missing numbers)
