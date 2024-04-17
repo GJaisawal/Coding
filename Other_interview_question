@@ -1,0 +1,34 @@
+1. Rest API : Also known as Restful API, the basic function of REST API is to enable client-server communication.
+              That are based on a request/response design.
+
+Important Terms : 
+
+1. Client : 
+
+A client is a person or program using the API. The client makes requests to the API to retrieve some information or change something
+within the application.Your web browser is a client — it interacts with APIs different websites to get page content from them.
+The requested info is sent back to your browser and displayed on your screen.
+
+2. Resource : 
+
+A resource is any piece of information that the API can provide the client. For instance, a resource in Facebook’s API could be 
+a user, a page, a photo, or a post. Each resource has a unique name, called the resource identifier.
+
+3. Server :
+
+A server is used by the application that receives client requests and contains resources that the client wants. The server has an
+API to interact with clients without giving them direct access to content stored in its database.
+
+Important :
+-----------------------------------------------------
+There four basic HTTP requests a client can make are:
+
+    GET: To retrieve a resource.
+
+    POST: To create a new resource.
+
+    PUT: To edit or update an existing resource.
+
+    DELETE: To delete a resource.
+-----------------------------------------------------
+
