@@ -31,4 +31,12 @@ There four basic HTTP requests a client can make are:
 
     DELETE: To delete a resource.
 -----------------------------------------------------
+200 Success
+400 Something wrong with our request
+500 Something wrong at the server level
 
+Important term :
+-----------------------------------------------------
+Idempotency is a property of operations or API requests that ensures repeating the operation multiple timesproduces the same result
+as executing it once.Safe methods are idempotent but not all idempotent methods are safe.
+-----------------------------------------------------------------------------------------
